@@ -28,6 +28,15 @@ $code-dot-gap: 0.5rem !default;
 $code-icon-width: 1.75rem !default;
 
 /* fonts */
+// @font-face {
+//   font-family: 'My Chinese Font';
+//   // lazy of me
+//   src: url('/assets/1.TTF') format('truetype');
+//   font-weight: normal;
+//   font-style: normal;
+// }
 
-$font-family-base: 'Source Sans Pro', 'FZ LanTingHei', sans-serif !default;
-$font-family-heading: Lato, 'Microsoft Yahei', sans-serif !default;
+// $font-family-base: 'Source Sans Pro', 'My Chinese Font', sans-serif !default;
+// $font-family-heading: Lato, 'My Chinese Font', sans-serif !default;
+$font-family-base: 'Source Sans Pro', 'LXGW WenKai Mono Screen', sans-serif !default;
+$font-family-heading: Lato, 'LXGW WenKai Mono Screen', sans-serif !default;
